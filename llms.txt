@@ -2,7 +2,7 @@
 
 > Smart MLB plays built for cash preservation, not lotto tickets: high-floor anchors, small-legged parlays, and round-robin hedging. Every pick is graded the next morning against a verified track record.
 
-Verified track record: 69.3% on 9840 graded plays on the published daily card (2026-03-26 to 2026-06-07), each graded next morning vs the official box score. Every published pick is graded the next morning against the official box score.
+Verified track record: 69.4% on 9947 graded plays on the published daily card (2026-03-26 to 2026-06-08), each graded next morning vs the official box score. Every published pick is graded the next morning against the official box score.
 
 ## Key pages
 - Latest picks: https://rrsalgo.com/
