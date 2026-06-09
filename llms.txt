@@ -1,0 +1,16 @@
+# Round Robin Sports Algo
+
+> Smart MLB plays built for cash preservation, not lotto tickets: high-floor anchors, small-legged parlays, and round-robin hedging. Every pick is graded the next morning against a verified track record.
+
+Verified track record: 69.3% on 9840 graded plays on the published daily card (2026-03-26 to 2026-06-07), each graded next morning vs the official box score. Every published pick is graded the next morning against the official box score.
+
+## Key pages
+- Latest picks: https://rrsalgo.com/
+- Verified track record: https://rrsalgo.com/record/
+- Archive of all editions: https://rrsalgo.com/archive/
+
+## About
+Round Robin Sports Algo publishes daily MLB betting picks and DFS plays (hits, runs, RBI,
+strikeouts and more), split into Early, Midday and Night slate editions, plus a
+morning recap that grades the prior day. Free editions are published here; full
+lines, stakes and the highest-conviction EV card are available to members.
