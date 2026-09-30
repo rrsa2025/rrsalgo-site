@@ -47,5 +47,15 @@ main{max-width:860px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
 .sport-card{display:flex;flex-direction:column;gap:.2rem;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:1rem 1.1rem;color:var(--ink)}
 .sport-card:hover{border-color:var(--bc);text-decoration:none}.sport-label{font-size:1.1rem;font-weight:800}.sport-sub{font-size:.82rem;color:var(--mut)}.sport-card.soon{opacity:.7}
 .s-hi{box-shadow:inset 0 -3px 0 #16b34a}.s-mid{box-shadow:inset 0 -3px 0 #6ee7a0}.s-red{box-shadow:inset 0 -3px 0 #e0567f}
+.rb-st{border-color:var(--bc);background:rgba(29,185,84,.10)}.rb-st .rb-phase,.rb-st .rb-num{color:var(--bc)}
+.tag-today{color:var(--bd);background:var(--bc);border-color:var(--bc)}.tag-recap{color:var(--mut);border-color:var(--line);background:#10151b}
+.latest-wins{background:linear-gradient(135deg,rgba(29,185,84,.12),var(--panel));border:1px solid var(--bc);border-radius:14px;padding:1rem 1.2rem;margin:1.5rem 0}
+.lw-head{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap}.lw-head h2{margin:0;font-size:1.3rem}.lw-date{color:var(--mut);font-size:.85rem}
+.lw-rec{margin-left:auto;font-weight:800;color:var(--bc);font-size:1.1rem}
+.lw-list{list-style:none;padding:0;margin:.8rem 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:.5rem}
+.lw-leg{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:.5rem .7rem}
+.lw-mem{border-color:var(--ps)}.lw-who small{color:var(--mut)}.lw-mkt{font-size:.8rem;color:var(--bc);font-weight:700}.lw-tier{font-size:.72rem;color:var(--ps);font-weight:800}
+.lw-link{font-size:.88rem}
+.locked{filter:blur(5px);user-select:none;letter-spacing:.1em;color:var(--mut)}
 .site-foot{border-top:1px solid var(--line);padding:1.5rem 1.25rem;text-align:center;color:var(--mut);font-size:.85rem}.fine{font-size:.78rem;opacity:.8}
 @media(max-width:560px){.hero h1{font-size:1.9rem}nav a{margin-left:.6rem;font-size:.88rem}.record-badge{min-width:140px}}
