@@ -1,16 +1,17 @@
 # Round Robin Sports Algo
 
-> Smart MLB plays built for cash preservation, not lotto tickets: high-floor anchors, small-legged parlays, and round-robin hedging. Every pick is graded the next morning against a verified track record.
+> Daily MLB Quick Hits: the steadiest plays on the board, where our bats stack up, and a team call when a lineup is loaded. Every call is graded the next morning, regular season and postseason tracked separately.
 
-Verified track record: 69.4% on 9947 graded plays on the published daily card (2026-03-26 to 2026-06-08), each graded next morning vs the official box score. Every published pick is graded the next morning against the official box score.
+## Quick Hits record (graded vs official box scores; live and backtest never mixed)
+- Postseason, backtest: 100.0% (4-0), 2026-09-29 to 2026-09-29
+- Regular season, backtest: 64.6% (769-421), 2026-03-29 to 2026-09-27
+Backtest = generated after the fact by a walk-forward replay using only pre-game data; not published on those dates.
 
 ## Key pages
-- Latest picks: https://rrsalgo.com/
-- Verified track record: https://rrsalgo.com/record/
-- Archive of all editions: https://rrsalgo.com/archive/
+- Latest picks: https://rrsalgo.com/mlb/
+- Track record: https://rrsalgo.com/record/
+- Archive: https://rrsalgo.com/archive/
 
 ## About
-Round Robin Sports Algo publishes daily MLB betting picks and DFS plays (hits, runs, RBI,
-strikeouts and more), split into Early, Midday and Night slate editions, plus a
-morning recap that grades the prior day. Free editions are published here; full
-lines, stakes and the highest-conviction EV card are available to members.
+Daily MLB Quick Hits in Early, Midday and Night editions, posted as each window's lineups lock, plus a morning recap
+grading every call. Regular season and postseason are tracked separately.
