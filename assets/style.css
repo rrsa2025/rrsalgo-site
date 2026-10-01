@@ -56,7 +56,7 @@ main{max-width:860px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
 .lw-list{list-style:none;padding:0;margin:.8rem 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:.5rem}
 .lw-leg{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:.5rem .7rem}
 .lw-mem{border-color:var(--ps)}.lw-who small{color:var(--mut)}.lw-mkt{font-size:.8rem;color:var(--bc);font-weight:700}.lw-tier{font-size:.72rem;color:var(--ps);font-weight:800}
-.lw-link{font-size:.88rem}
+.lw-link{font-size:.88rem}.lw-line{flex-basis:100%;font-size:.78rem;color:var(--mut)}
 .locked{filter:blur(5px);user-select:none;letter-spacing:.1em;color:var(--mut)}
 .site-foot{border-top:1px solid var(--line);padding:1.5rem 1.25rem;text-align:center;color:var(--mut);font-size:.85rem}.fine{font-size:.78rem;opacity:.8}
 @media(max-width:560px){.hero h1{font-size:1.9rem}nav a{margin-left:.6rem;font-size:.88rem}.record-badge{min-width:140px}}
