@@ -40,6 +40,7 @@ main{max-width:860px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
 .rec-phase{margin:2rem 0;padding:1rem 1.2rem;border-radius:14px;border:1px solid var(--line)}.rp-ps{border-color:var(--ps);background:var(--ps-soft)}.rp-rs{border-color:var(--rs);background:var(--rs-soft)}
 .rp-ps h2{color:var(--ps)}.rp-rs h2{color:var(--rs)}
 .rec-block{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:.8rem 0}.rb-bt{border-style:dashed}
+.rec-defs{color:var(--mut);font-size:.9rem;padding-left:1.1rem}.rec-defs li{margin:.2rem 0}.rec-lines{padding-left:1.1rem}.rec-lines li{margin:.3rem 0}
 .rec-block h3{margin:.2rem 0}.rec-block h4{margin:1rem 0 .3rem;color:var(--mut);font-size:.85rem;text-transform:uppercase;letter-spacing:.05em}
 .rec-table{width:100%;border-collapse:collapse;margin:.4rem 0 .8rem;font-size:.93rem}.rec-table th,.rec-table td{border:1px solid var(--line);padding:.45rem .7rem;text-align:left}.rec-table th{background:#10151b}
 .archive-list{list-style:none;padding:0}.archive-list li{padding:.7rem 0;border-bottom:1px solid var(--line)}

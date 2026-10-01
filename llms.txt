@@ -3,9 +3,9 @@
 > Daily MLB Quick Hits: the steadiest plays on the board, where our bats stack up, and a team call when a lineup is loaded. Every call is graded the next morning, regular season and postseason tracked separately.
 
 ## Quick Hits record (graded vs official box scores; live and backtest never mixed)
-- Postseason, live: 50.0% (1-1), 2026-09-30 to 2026-09-30
-- Postseason, backtest: 100.0% (6-0), 2026-09-29 to 2026-09-29
-- Regular season, backtest: 63.4% (876-506), 2026-03-29 to 2026-09-27
+- Postseason, live: free picks 1 of 2 (50%); members card 1 of 2 (50%); 2026-09-30 to 2026-09-30
+- Postseason, backtest: free picks 4 of 4 (100%); members card 6 of 6 (100%); 2026-09-29 to 2026-09-29
+- Regular season, backtest: free picks 499 of 692 (72.1%); members card 876 of 1382 (63.4%); 2026-03-29 to 2026-09-27
 Backtest = generated after the fact by a walk-forward replay using only pre-game data; not published on those dates.
 
 ## Key pages
