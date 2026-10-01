@@ -15,7 +15,7 @@ main{max-width:860px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
 .rb-num{font-size:1.9rem;font-weight:800;line-height:1.1}.rb-label{font-size:.75rem;color:var(--mut);text-transform:uppercase;letter-spacing:.04em}
 .cta-big{display:inline-block;background:var(--bc);color:var(--bd);font-weight:800;padding:.8rem 1.4rem;border-radius:8px;margin-top:1rem}.cta-big:hover{text-decoration:none;filter:brightness(1.08)}
 .section-title{border-bottom:1px solid var(--line);padding-bottom:.4rem;margin-top:2rem}
-.st-ps{color:var(--ps);border-bottom:2px solid var(--ps)}.st-rs{color:var(--rs);border-bottom:2px solid var(--rs)}
+.st-ps{color:var(--ps);border-bottom:2px solid var(--ps)}.st-rs{color:var(--rs);border-bottom:2px solid var(--rs)}.st-nfl{color:#d4a017;border-bottom:2px solid #d4a017}
 .sec-note{color:var(--mut);font-size:.88rem;margin:.3rem 0 1rem}
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem}
 .card{display:block;background:var(--panel);border:1px solid var(--line);border-top:3px solid var(--rs);border-radius:12px;padding:1rem;color:var(--ink)}
