@@ -26,6 +26,8 @@ main{max-width:1040px;margin:0 auto;padding:1.5rem 1.25rem 3rem}main.read{max-wi
 .tag{display:inline-block;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:5px;padding:.12rem .45rem;border:1px solid}
 .tag-ps{color:var(--ps);border-color:var(--ps);background:var(--ps-soft)}.tag-rs{color:var(--rs);border-color:var(--rs);background:var(--rs-soft)}
 .tag-bt{color:var(--bt);border:1px dashed var(--bt);background:transparent}
+.rb-nflbt{border:1px dashed var(--bt);background:transparent}.rb-nflbt .rb-phase,.rb-nflbt .rb-num{color:var(--bt)}
+.bt-badges-head{margin:1rem 0 .4rem;color:var(--muted,#9aa4b2);font-size:.9rem}
 .post-meta{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin-bottom:.6rem;color:var(--mut);font-size:.85rem}
 .post h1{margin:.3rem 0 1rem;line-height:1.2}.post-ps h1{color:var(--ps)}
 .kind-tag{color:var(--mut);font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;font-weight:700}
