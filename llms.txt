@@ -1,18 +1,37 @@
 # Round Robin Sports Algo
 
-> Daily MLB Quick Hits: the steadiest plays on the board, where our bats stack up, and a team call when a lineup is loaded. Every call is graded the next morning, regular season and postseason tracked separately.
+> Proprietary player prop picks for fantasy and prediction markets (MLB and NFL; NBA from October 20, 2026), built by a data professional
+> with 20 years in the fintech data industry after three years of development and testing; picks come from a consensus of models with
+> in-season recalibration. Free picks are the
+> highest hit-rate calls; every published pick is graded in public at the price posted. Live and backtest results are never mixed.
 
-## Quick Hits record (graded vs official box scores; live and backtest never mixed)
+## What we publish
+- MLB Quick Hits: Early, Midday and Night editions posted as each window's lineups lock; a recap grades every call the next morning. https://rrsalgo.com/mlb/
+- NFL Quick Hits: one edition per kickoff window (Thursday, Sunday morning/early/late/night, Monday), posted about 75 minutes before kickoff after
+  inactives; results the morning after each window; a weekly recap every Tuesday. https://rrsalgo.com/nfl/
+- How picks are built and graded: https://rrsalgo.com/about/
+
+## Grading
+NFL props settle at Kalshi's official settlement; MLB props at the official box score; spreads and moneylines at the final score.
+Records read "X of N" (picks won of picks graded). Value plays, anytime TDs and long shots are judged in units (1 unit risked per pick).
+
+## MLB record (live and backtest never mixed)
 - Postseason, live: free picks 2 of 5 (40%); members card 3 of 6 (50%); 2026-09-30 to 2026-10-01
 - Postseason, backtest: free picks 4 of 4 (100%); members card 6 of 6 (100%); 2026-09-29 to 2026-09-29
 - Regular season, backtest: free picks 499 of 692 (72.1%); members card 876 of 1382 (63.4%); 2026-03-29 to 2026-09-27
-Backtest = generated after the fact by a walk-forward replay using only pre-game data; not published on those dates.
+
+## NFL record (live, 2026 season)
+- Free picks: 3 of 4
+- Members (all props incl. free): 4 of 10
+- Members EV plays: 1 of 5 (-0.27 units)
+- Strong moneylines: 0 of 1 (-1.00 units)
 
 ## Key pages
-- Latest picks: https://rrsalgo.com/mlb/
-- Track record: https://rrsalgo.com/record/
-- Archive: https://rrsalgo.com/archive/
+- Home: https://rrsalgo.com/
+- MLB picks: https://rrsalgo.com/mlb/ · MLB record: https://rrsalgo.com/mlb/record/
+- NFL picks: https://rrsalgo.com/nfl/ · NFL record: https://rrsalgo.com/nfl/record/
+- All records: https://rrsalgo.com/record/ · Archive: https://rrsalgo.com/archive/ · RSS: https://rrsalgo.com/rss.xml
+- Members plans: https://www.winible.com/rrsportsalgo
 
-## About
-Daily MLB Quick Hits in Early, Midday and Night editions, posted as each window's lineups lock, plus a morning recap
-grading every call. Regular season and postseason are tracked separately.
+Backtest = generated after the fact by a walk-forward replay using only pre-game data; labelled on every page.
+Picks are informational, not betting advice. 21+.
