@@ -26,6 +26,11 @@ main{max-width:1040px;margin:0 auto;padding:1.5rem 1.25rem 3rem}main.read{max-wi
 .tag{display:inline-block;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;border-radius:5px;padding:.12rem .45rem;border:1px solid}
 .tag-ps{color:var(--ps);border-color:var(--ps);background:var(--ps-soft)}.tag-rs{color:var(--rs);border-color:var(--rs);background:var(--rs-soft)}
 .tag-bt{color:var(--bt);border:1px dashed var(--bt);background:transparent}
+.tier-recs{display:flex;flex-wrap:wrap;gap:.35rem;margin:.1rem 0 .5rem}
+.tier-recs .tr{font-size:.78rem;border-radius:999px;padding:.12rem .55rem;border:1px solid var(--line);color:var(--mut)}
+.tier-recs .tr b{color:var(--ink);font-weight:700}.tr-free{border-color:#22c55e!important}.tr-mem{border-color:#d4a017!important}
+.tr-aa{border-color:#e8b82a!important;border-style:dashed!important}
+.st-bt{border-bottom-style:dashed}
 .rb-nflbt{border:1px dashed var(--bt);background:transparent}.rb-nflbt .rb-phase,.rb-nflbt .rb-num{color:var(--bt)}
 .bt-badges-head{margin:1rem 0 .4rem;color:var(--muted,#9aa4b2);font-size:.9rem}
 .post-meta{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin-bottom:.6rem;color:var(--mut);font-size:.85rem}
