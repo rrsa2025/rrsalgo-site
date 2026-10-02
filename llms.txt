@@ -22,8 +22,7 @@ Records read "X of N" (picks won of picks graded). Value plays, anytime TDs and 
 
 ## NFL record (live, 2026 season)
 - Free picks: 3 of 4
-- Members (all props incl. free): 4 of 10
-- Members EV plays: 1 of 5 (-0.27 units)
+- Members (all props incl. free): 5 of 7
 - Strong moneylines: 0 of 1 (-1.00 units)
 
 ## Key pages
