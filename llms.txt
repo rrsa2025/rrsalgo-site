@@ -21,11 +21,11 @@ Records read "X of N" (picks won of picks graded). Value plays, anytime TDs and 
 - Regular season, backtest: free picks 499 of 692 (72.1%); members card 876 of 1382 (63.4%); 2026-03-29 to 2026-09-27
 
 ## NFL record (live, 2026 season)
-- Free picks: 43 of 63
-- Members (all props incl. free): 132 of 229
-- Anytime TDs: 15 of 20 (+3.58 units)
+- Free picks: 45 of 65
+- Members (all props incl. free): 138 of 235
+- Anytime TDs: 16 of 21 (+3.98 units)
 - Members EV plays: 7 of 15 (+0.79 units)
-- All-Access premium unders: 11 of 14 (+3.64 units)
+- All-Access premium unders: 11 of 15 (+2.64 units)
 - High-confidence spread picks: 9 of 14
 - Strong moneylines: 0 of 1 (-1.00 units)
 
