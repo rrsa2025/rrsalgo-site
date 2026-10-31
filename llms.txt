@@ -1,6 +1,6 @@
 # Round Robin Sports Algo
 
-> Proprietary player prop picks for fantasy and prediction markets (MLB and NFL; NBA from October 20, 2026), built by a data professional
+> Proprietary player prop picks for fantasy and prediction markets (MLB, NFL and NBA), built by a data professional
 > with 20 years in the fintech data industry after three years of development and testing; picks come from a consensus of models with
 > in-season recalibration. Free picks are the
 > highest hit-rate calls; every published pick is graded in public at the price posted. Live and backtest results are never mixed.
